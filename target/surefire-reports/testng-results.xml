@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8399" started-at="2018-07-18T17:29:46Z" finished-at="2018-07-18T17:29:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8399" started-at="2018-07-18T17:29:46Z" finished-at="2018-07-18T17:29:54Z">
+      <class name="mavDemPak.MavDemC">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavDemPak.MavDemC@2ed94a8b]" name="beforeTest" is-config="true" duration-ms="23" started-at="2018-07-18T17:29:46Z" finished-at="2018-07-18T17:29:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:mavDemPak.MavDemC@2ed94a8b]" name="f" duration-ms="8350" started-at="2018-07-18T17:29:46Z" finished-at="2018-07-18T17:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavDemPak.MavDemC@2ed94a8b]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-07-18T17:29:54Z" finished-at="2018-07-18T17:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- mavDemPak.MavDemC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
